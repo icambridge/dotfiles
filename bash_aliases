@@ -4,6 +4,7 @@
 alias sadd='svn add --force'
 alias scopy='svn copy'
 alias scommit='svn commit'
+alias sci='svn commit'
 alias smerge='svn merge'
 alias srevert='svn revert'
 alias sdelete='svn delete'
