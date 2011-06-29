@@ -1,4 +1,4 @@
-cgi#######
+#######
 # Svn Aliases
 #######
 alias sadd='svn add --force'
